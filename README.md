@@ -80,10 +80,10 @@ The focus of this project is to showcase the frontend of the application, with m
   - [GitHub Profile](https://github.com/musa-dube)
   - [LinkedIn Profile](https://www.linkedin.com/in/musa-dube-8483a320b)
 - Luke Kilroe
-  - Lead Researcher, Lead in business case
+  - Lead Researcher
   - [LinkedIn Profile](https://linkedin.com/mwlite/in/luke-kilroe-511216259)
 - Terry Chitter
-  - Lead Frontend Dev, Research
+  - Lead Frontend Dev, Backend Dev, Research
   - [GitHub Profile](https://github.com/terrychitter)
   - [LinkedIn Profile](https://www.linkedin.com/in/terry-chitter-91a950201)
 - Johan Meyer
